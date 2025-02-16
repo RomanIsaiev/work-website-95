@@ -101,12 +101,8 @@ body {
 .video-wrapper {
   border-radius: 15px;
   border: 2px solid #ffe170;
-  height: 188px;
+  height: auto;
   overflow: hidden;
-}
-
-.video {
-  height: 188px;
 }
 
 .text-wrapper {
