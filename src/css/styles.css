@@ -66,8 +66,15 @@ body {
 }
 
 .video-container {
-  max-width: 320px;
+  max-width: 360px;
   margin: 0 auto 32px auto;
+}
+
+.video-wrapper {
+  border-radius: 15px;
+  border: 2px solid #fff;
+  height: auto;
+  overflow: hidden;
 }
 
 .title-container {
@@ -96,13 +103,6 @@ body {
   font-weight: 450;
   line-height: normal;
   text-transform: uppercase;
-}
-
-.video-wrapper {
-  border-radius: 15px;
-  border: 2px solid #ffe170;
-  height: auto;
-  overflow: hidden;
 }
 
 .text-wrapper {
